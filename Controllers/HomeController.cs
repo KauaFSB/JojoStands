@@ -15,12 +15,40 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        List<Stand> stands = GetPokemons();
+        List<Tipo> tipos = GetTipos();
+        ViewData["Tipos"] = tipos;
+        return View(stands);
     }
 
-    public IActionResult Privacy()
+    public IActionResult Details(int id)
     {
-        return View();
+        List<Stand> stands = GetStands();
+        List<Tipo> tipos = GetTipos();
+        DetailsVM details = new() {
+            Tipos = tipos,
+            Atual = stands.FirstOrDefault(p => p.Numero == id),
+            Anterior = stands.OrderByDescending(p => p.Numero).FirstOrDefault(p => p.Numero < id),
+            Proximo = stands.OrderBy(p => p.Numero).FirstOrDefault(p => p.Numero > id),
+        };
+        return View(details);
+    }
+    private List<Stand> GetStands()
+    {
+        using (StreamReader leitor = new("Data\\stands.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            return JsonSerializer.Deserialize<List<Stand>>(dados);
+        }
+    }
+
+     private List<Tipo> GetTipos()
+    {
+        using (StreamReader leitor = new("Data\\tipos.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            return JsonSerializer.Deserialize<List<Tipo>>(dados);
+        }
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

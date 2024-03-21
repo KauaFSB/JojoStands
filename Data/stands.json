@@ -1,0 +1,106 @@
+[
+    {
+        "Numero": 1,
+        "Nome": "Star Platinum",
+        "Descricao": "Star Platinum, o Stand de Jotaro Kujo, é um ser humanoide de força e velocidade descomunal. Seus punhos devastadores ecoam o grito Ora Ora Ora!, enquanto sua precisão cirúrgica permite realizar feitos inimagináveis. Sua visão aguçada detecta o mínimo detalhe e sua capacidade de parar o tempo o torna invencível em combate.Ao longo da jornada de Jotaro em Stardust Crusaders, Star Platinum se torna crucial para superar desafios e derrotar inimigos formidáveis como DIO. Sua força e versatilidade o colocam entre os Stands mais poderosos e memoráveis de toda a série JoJo's Bizarre Adventure.",
+        "Tipo": [
+            "Curto-Alcance",
+            "Multiplos-Atos"
+        ],
+        "Altura": 1.85,
+        "Especie": "Humanoide",
+        "Peso": 100,
+        "Imagem": "\\img\\stands\\1.png"
+    },
+    {
+        "Numero": 2,
+        "Nome": "Gold Experience",
+        "Descricao": "Gold Experience, o Stand de Giorno Giovanna, é um ser humanoide dourado com detalhes em verde. Sua principal habilidade é dar vida a objetos inertes, transformando-os em plantas, animais ou até mesmo seres com habilidades especiais.Embora não seja o Stand mais forte em termos de força bruta, Gold Experience compensa com sua versatilidade e capacidade de criar aliados inesperados. Sua agilidade também é notável, permitindo que Giorno se movimente rapidamente e ataque com precisão.Ao longo da jornada de Giorno em Vento Aureo, Gold Experience se torna fundamental para sua ascensão ao poder e derrota de diversos inimigos. Sua capacidade de curar e criar vida o torna um Stand único e poderoso, capaz de superar qualquer obstáculo.",
+        "Tipo": [
+            "Curto-Alcance",
+            "Requiem",
+            "Integrado",
+            "Multiplos-Atos"
+        ],
+        "Altura": 1.75,
+        "Especie": "Humanoide",
+        "Peso": 80,
+        "Imagem": "\\img\\stands\\2.png"
+    },
+    {
+        "Numero": 3,
+        "Nome": "The World",
+        "Descricao": "ZA WARUDO, o Stand de DIO, é um ser humanoide musculoso com detalhes em dourado. Sua principal habilidade é parar o tempo por até 9 segundos, permitindo que DIO se movimente livremente e ataque sem ser detectado.Em combate, ZA WARUDO é extremamente poderoso, pois DIO pode utilizar o tempo parado para preparar ataques devastadores ou escapar de situações perigosas. Sua força física também é notável, capaz de superar a de Jotaro Kujo e seu Stand Star Platinum.ZA WARUDO é um Stand crucial para a história de Stardust Crusaders, sendo responsável por diversos momentos de tensão e suspense. Sua capacidade de parar o tempo torna DIO um oponente formidável e coloca Jotaro e seus aliados em situações de risco constante.",
+        "Tipo": [
+            "Longo-Alcance"
+        ],
+        "Altura": 1.95,
+        "Especie": "Humanoide",
+        "Peso": 100,
+        "Imagem": "\\img\\stands\\3.png"
+    },
+    {
+        "Numero": 4,
+        "Nome": "Made In Heaven",
+        "Descricao": "Made in Heaven, o Stand final de Enrico Pucci, acelera o fluxo do tempo drasticamente. Ao manipular forças gravitacionais, ele afeta tudo exceto seres vivos, essencialmente fazendo o mundo avançar em alta velocidade. Imagine a Terra em fast-forward! Isso concede a Pucci uma vantagem esmagadora. Ele pode se mover e agir com super velocidade enquanto o resto do mundo parece congelado. Made in Heaven é considerado o Stand definitivo por DIO, pois sua habilidade de manipular o tempo em escala universal é imbatível.",
+        "Tipo": [
+            "Fenômeno"
+        ],
+        "Altura": 2.00,
+        "Especie": "Não-humanoide",
+        "Peso": 80,
+        "Imagem": "\\img\\stands\\4.png"
+    },
+    {
+        "Numero": 5,
+        "Nome": "Stone Free",
+        "Descricao": "STONE FREE, o Stand de Jolyne Cujoh, é um ser humanoide com corpo esbelto e detalhes em azul e verde. Sua principal habilidade é transformar seu corpo em cordas, permitindo que Jolyne se movimente com grande agilidade e alcance lugares inacessíveis.As cordas de STONE FREE também podem ser utilizadas como armas, chicoteando e perfurando seus oponentes com grande força. Além disso, Jolyne pode transformar partes de seu corpo em cordas para escapar de situações perigosas ou se infiltrar em lugares apertados. STONE FREE é um Stand crucial para a história de Stone Ocean, ajudando Jolyne a superar diversos desafios e escapar da prisão de Green Dolphin Street. Sua versatilidade e poder destrutivo a tornam uma oponente formidável e uma força importante na luta contra Enrico Pucci.",
+        "Tipo": [
+            "Curto-Alcance",
+            "Integrado",
+            "Multiplos-Atos"
+        ],
+        "Altura": 1.70,
+        "Especie": "Humanoide",
+        "Peso": 60,
+        "Imagem": "\\img\\stands\\5.png"
+    },
+    {
+        "Numero": 6,
+        "Nome": "Killer Queen",
+        "Descricao": "Killer Queen é o Stand de Yoshikage Kira, o principal antagonista da Parte 4: Diamond is Unbreakable de JoJo's Bizarre Adventure. Assumindo a forma de um humanoide felino com cores vibrantes, Killer Queen possui duas habilidades distintas que o tornam extremamente perigoso e crucial para a história da série.A primeira habilidade de Killer Queen é transformar qualquer objeto que ele toque em uma bomba. Ao detonar a bomba, o objeto explode completamente, desintegrando tudo em seu caminho. Essa capacidade permite que Kira realize ataques devastadores e elimine seus alvos sem deixar rastros.A segunda habilidade de Killer Queen, Bites the Dust, é ainda mais poderosa e complexa. Se alguém descobrir a verdadeira identidade de Kira, Bites the Dust ativa automaticamente, rebobinando o tempo em até uma hora e transformando a pessoa que descobriu a identidade em uma bomba. Essa bomba explode ao tocar em outra pessoa, criando um ciclo mortal que protege Kira e elimina qualquer ameaça.Em combate, Killer Queen é extremamente versátil e letal. Kira pode utilizar suas bombas para realizar ataques surpresa e devastadores, enquanto Bites the Dust garante uma segunda chance e pune qualquer um que tente descobrir seu segredo. Essa combinação de habilidades torna Kira um oponente formidável e coloca Jotaro Kujo e seus aliados em situações de risco constante.Ao longo da Parte 4, Killer Queen se torna um símbolo da obsessão de Kira por uma vida tranquila e sem imperfeições. Sua natureza furtiva e suas habilidades mortais representam o lado obscuro da busca por perfeição, criando um suspense constante e um clima de terror na cidade de Morioh.",
+        "Tipo": [
+            "Curto-Alcance",
+            "Multiplos-Atos"
+        ],
+        "Altura": 1.80,
+        "Especie": "Não-humanoide",
+        "Peso": 80,
+        "Imagem": "\\img\\stands\\6.png"
+    },
+    {
+        "Numero": 7,
+        "Nome": "Crazy Diamond",
+        "Descricao": "Crazy Diamond, o Stand de Josuke Higashikata, protagonista da Parte 4: Diamond is Unbreakable de JoJo's Bizarre Adventure, é mais do que apenas um poderoso aliado em combate. Sua presença representa a esperança e a redenção em meio à escuridão que assola a cidade de Morioh.Com sua aparência imponente e detalhes angelicais, Crazy Diamond se destaca por sua capacidade única de restaurar objetos e curar feridas. Essa habilidade, inicialmente vista como uma benção divina, logo se revela como uma ferramenta crucial para Josuke proteger seus amigos e sua cidade natal.Ao longo da história, Crazy Diamond é utilizado em diversas situações, desde consertar objetos quebrados até curar feridas graves. A força e velocidade de Josuke, combinadas com a capacidade de restauração do Stand, o tornam um oponente formidável para qualquer um que ouse ameaçar a paz de Morioh.No entanto, Crazy Diamond vai além de sua força bruta. Sua habilidade de restaurar representa a esperança de que mesmo os erros mais graves podem ser corrigidos. Josuke utiliza essa habilidade para ajudar pessoas necessitadas, demonstrando compaixão e empatia em um mundo frequentemente cruel.",
+        "Tipo": [
+            "Curto-Alcance",
+            "Multiplos-Atos"
+        ],
+        "Altura": 1.90,
+        "Especie": "Humanoide",
+        "Peso": 90,
+        "Imagem": "\\img\\stands\\7.png"
+    },
+    {
+        "Numero": 8,
+        "Nome": "Sticky Fingers",
+        "Descricao": "Sticky Fingers, o Stand de Bruno Bucciarati, figura central da Parte 5: Vento Aureo de JoJo's Bizarre Adventure, transcende a mera força bruta. Sua habilidade de criar zíperes em qualquer superfície, orgânica ou inorgânica, o torna um instrumento de versatilidade inigualável, abrindo caminhos tanto no campo de batalha quanto na complexa teia da máfia italiana.Com um corpo musculoso adornado em tons de azul e dourado, Sticky Fingers ostenta um rosto marcado por um zíper que silencia suas palavras, substituindo-as por ações contundentes. Um chapéu fedora e o número 5 em sua testa completam a imagem de um gangster italiano pronto para fazer justiça.Sua principal habilidade, a criação de zíperes, transcende a mera manipulação de objetos. Sticky Fingers pode abrir e fechar pessoas, objetos e até mesmo o espaço, concedendo a Bucciarati um leque de opções táticas inimaginável.Em combate, essa versatilidade se traduz em ataques imprevisíveis, defesas impenetráveis e armadilhas engenhosas. Socos e chutes poderosos se combinam com a manipulação do ambiente para criar estratégias complexas que confundem e subjugam seus oponentes.",
+        "Tipo": [
+            "Curto-Alcance"
+        ],
+        "Altura": 1.75,
+        "Especie": "Humanoide",
+        "Peso": 70,
+        "Imagem": "\\img\\stands\\8.png"
+    }
+]
