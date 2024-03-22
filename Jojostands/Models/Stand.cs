@@ -1,4 +1,4 @@
-namespace JOJOSTANDS.Models;
+namespace Jojostands.Models;
     public class Stand
     {
         public int Numero { get; set; }

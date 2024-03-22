@@ -1,4 +1,4 @@
-namespace Jojo.Models;
+namespace Jojostands.Models;
 
 public class ErrorViewModel
 {

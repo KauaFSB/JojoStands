@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Jojo.Models;
+using Jojostands.Models;
 
-namespace Jojo.Controllers;
+namespace Jojostands.Controllers;
 
 public class HomeController : Controller
 {
@@ -15,7 +15,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        List<Stand> stands = GetPokemons();
+        List<Stand> stands = GetStands();
         List<Tipo> tipos = GetTipos();
         ViewData["Tipos"] = tipos;
         return View(stands);
