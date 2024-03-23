@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\etec\\Jojo\\Jojo.csproj",
+      "projectUniqueName": "C:\\Users\\etec\\Desktop\\JojoStands\\Jojostands\\Jojo.csproj",
       "projectName": "Jojo",
-      "projectPath": "C:\\Users\\etec\\Jojo\\Jojo.csproj",
+      "projectPath": "C:\\Users\\etec\\Desktop\\JojoStands\\Jojostands\\Jojo.csproj",
       "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\etec\\Jojo\\obj\\",
+      "outputPath": "C:\\Users\\etec\\Desktop\\JojoStands\\Jojostands\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",
