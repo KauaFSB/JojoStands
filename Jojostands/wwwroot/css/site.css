@@ -3,12 +3,17 @@
 }
 
 .card:hover {
-  border: 3px solid red;
-  transform: scale(1.15);
-  transition: 1s;
+  border: 1px solid rgb(255, 0, 0);
+  transform: scale(1.05);
+  transition: 0.3s;
   z-index: 1000;
 }
 
 .cursor-pointer {
   cursor: pointer;
+}
+
+.flecha{
+  width: 500px;
+  margin-bottom: 50px;
 }

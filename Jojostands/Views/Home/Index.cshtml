@@ -14,7 +14,7 @@
 <section class="pt-5 pb-3 text-center container">
     <div class="row">
         <div class="col mx-auto">
-            <h1>PERSONAGENS</h1>
+            <img class="flecha" src="~/img/flecha.png" alt="">
             <div class="group">
                 <button id="btn-all" class="btn btn-md my-2 text-white bg-dark btn-filter"
                     onclick="filter('all')">
@@ -40,15 +40,15 @@
             {
                 <!-- Card Pokemon - Inicio -->
                 <div class="col" onclick="window.location = '/Home/Details/@stand.Numero'">
-                    <div class="card shadow-sm cursor-pointer @string.Join(' ', stand.Tipo)">
+                    <div class="card shadow-sm cursor-pointer border-white @string.Join(' ', stand.Tipo) bg-dark">
                             <img src="@stand.Imagem" class="card-img-top" width="100%" height="300" alt="@stand.Nome" />
                             <div class="card-body">
-                            <p class="card-text mb-0">N° @stand.Numero.ToString("000")</p>
-                            <h3 class="card-title">@stand.Nome</h3>
+                            <p class="card-text text-white mb-0">N° @stand.Numero.ToString("000")</p>
+                            <h3 class="card-title text-white">@stand.Nome</h3>
                             <div class="btn-group">
                                 @foreach (var tipo in stand.Tipo)
                                 {
-                                    <a href="#" class="btn my-2 text-dark"
+                                    <a href="#" class="btn my-2 text-white"
                                      style="background-color:@Cor(tipo)"
                                      onclick="filter('@tipo')">@tipo</a>
                                 }

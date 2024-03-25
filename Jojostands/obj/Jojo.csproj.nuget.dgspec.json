@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\etec\\Desktop\\JojoStands\\Jojostands\\Jojo.csproj": {}
+    "C:\\Users\\etec\\Desktop\\JojoStands\\jojostands\\Jojo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\etec\\Desktop\\JojoStands\\Jojostands\\Jojo.csproj": {
+    "C:\\Users\\etec\\Desktop\\JojoStands\\jojostands\\Jojo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\etec\\Desktop\\JojoStands\\Jojostands\\Jojo.csproj",
+        "projectUniqueName": "C:\\Users\\etec\\Desktop\\JojoStands\\jojostands\\Jojo.csproj",
         "projectName": "Jojo",
-        "projectPath": "C:\\Users\\etec\\Desktop\\JojoStands\\Jojostands\\Jojo.csproj",
+        "projectPath": "C:\\Users\\etec\\Desktop\\JojoStands\\jojostands\\Jojo.csproj",
         "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\etec\\Desktop\\JojoStands\\Jojostands\\obj\\",
+        "outputPath": "C:\\Users\\etec\\Desktop\\JojoStands\\jojostands\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",
