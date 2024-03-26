@@ -1,7 +1,7 @@
 [
     {
       "Nome": "Curto-Alcance",
-      "Cor": "#22b"
+      "Cor": "#106ebf"
     },
     {
       "Nome": "Multiplos-Atos",
@@ -23,5 +23,4 @@
       "Nome": "Longo-Alcance",
       "Cor": "#77b"
     }
-   
   ]

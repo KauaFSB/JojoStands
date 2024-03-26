@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dFuaurDupNLwcM/OhuIV+E1RhXhiU8sIVscmTpRsrSw=",
+  "Hash": "1ZajUNjTNTLesaABu2iz28jNAhW56+e3jmUwiJJKx7w=",
   "Source": "Jojo",
   "BasePath": "_content/Jojo",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\favicons\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\JojoStands\\jojostands\\wwwroot\\img\\flecha.png",
+      "SourceId": "Jojo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\JojoStands\\jojostands\\wwwroot\\",
+      "BasePath": "_content/Jojo",
+      "RelativePath": "img/flecha.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\flecha.png"
     },
     {
       "Identity": "C:\\Users\\etec\\Desktop\\JojoStands\\jojostands\\wwwroot\\img\\stands\\1.png",

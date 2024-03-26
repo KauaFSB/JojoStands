@@ -17,3 +17,39 @@
   width: 500px;
   margin-bottom: 50px;
 }
+
+.img{
+  cursor: pointer;
+  width: 500px;
+}
+
+.btn-group{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.btn-text{
+  font-weight: 500;
+  font-size: 10pt;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.btn-text:hover{
+  color:#212529;
+}
+
+.describe{
+  margin-top: -30px;
+}
+
+.row{
+  margin-bottom: 30px;
+}
+
+.footer{
+  color: white;
+}
