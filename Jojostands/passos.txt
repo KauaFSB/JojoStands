@@ -1,8 +1,8 @@
 1- Configuração do Git Local:
 
-git config --global user.name KauaFSB
+git config --global user.name 
 
-git config --global user.email kauaflp234@gmail.com
+git config --global user.email 
 
 git clone "URL"
 

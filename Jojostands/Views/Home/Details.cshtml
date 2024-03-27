@@ -7,8 +7,8 @@
         .Where(t => t.Nome == nome)
         .Select(t => t.Cor)
         .FirstOrDefault();
-        
-    }    
+
+    }
 }
 <section class="pt-5 container bg-dark">
     <div class="row">
@@ -25,7 +25,7 @@
             <h1 class="fs-1 text-light">@Model.Atual.Nome
                 <span class="fs-2 text-light">Nº @Model.Atual.Numero.ToString("000")</span>
             </h1>
-        </div> 
+        </div>
 
         <div class="col text-center">
             @if (Model.Proximo != null)
@@ -37,24 +37,26 @@
         </div>
     </div>
 
-    <div class="row mt-3">
-        <div class="col-lg-5 p-0">
-            <img class="img" src="@Model.Atual.Imagem" alt="@Model.Atual.Nome">
-        </div>
-        <div class="col-lg-7 fs-5 mt-4 text-white">
-            <div class="describe">
-                <p class="mb-3"><strong>Descrição:</strong> @Model.Atual.Descricao</p>
-                <p class="mb-3"><strong>Espécie:</strong> @Model.Atual.Especie</p>
-                <p class="mb-3"><strong>Altura:</strong> @Model.Atual.Altura mts</p>
-                <p class="mb-3"><strong>Peso:</strong> @Model.Atual.Peso kgs</p>
-                <p class="fw-bold">Tipo</p>
-                <div class="btn-group">
-                    @foreach (var tipo in Model.Atual.Tipo)
-                    {
-                        <a href="#" class="btn-text" style="background-color:@Cor(tipo)">
-                            @tipo
-                        </a>
-                    }
+    <div class="espacamento">
+        <div class="row mt-3">
+            <div class="col-lg-5 p-0">
+                <img class="img" src="@Model.Atual.Imagem" alt="@Model.Atual.Nome">
+            </div>
+            <div class="col-lg-7 fs-5 mt-4 text-white">
+                <div class="describe">
+                    <p class="mb-3"><strong>Descrição:</strong> @Model.Atual.Descricao</p>
+                    <p class="mb-3"><strong>Espécie:</strong> @Model.Atual.Especie</p>
+                    <p class="mb-3"><strong>Altura:</strong> @Model.Atual.Altura mts</p>
+                    <p class="mb-3"><strong>Peso:</strong> @Model.Atual.Peso kgs</p>
+                    <p class="fw-bold">Tipo</p>
+                    <div class="btn-group">
+                        @foreach (var tipo in Model.Atual.Tipo)
+                        {
+                            <a href="#" class="btn-text" style="background-color:@Cor(tipo)">
+                                @tipo
+                            </a>
+                        }
+                    </div>
                 </div>
             </div>
         </div>
